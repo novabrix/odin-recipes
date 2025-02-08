@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+
+ol, ul, h3, li{
+    text-align: left;
+}
+
+h4, p{
+    background-color: lightyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2{
+    background-color: darkred;
+    color: whitesmoke
+}

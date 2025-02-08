@@ -8,3 +8,6 @@ The skills I will demonstrate here are, but not limited to:
 -following through on the numerous git commands I have learned
 
 ...and that's about it! Until next time...>
+
+novabrix.github.io/odin-recipes
+your-github-username.github.io/your-github-repo-name
